@@ -2,9 +2,9 @@
 mod-version = "0.1.0"
 
 # Fabric (https://fabricmc.net/develop)
-minecraft = "1.21.11"
-fabric-loader = "0.18.4"
-fabric-api = "0.140.2+1.21.11"
+minecraft = "1.21.10"
+fabric-loader = "0.18.0"
+fabric-api = "0.138.0+1.21.10"
 
 # Loom (https://github.com/FabricMC/fabric-loom)
 loom = "1.14-SNAPSHOT"

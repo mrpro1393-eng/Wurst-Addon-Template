@@ -16,6 +16,8 @@ public final class AddonTemplate extends WurstAddon
 		LOGGER.info("Initializing Wurst Addon Template");
 		
 		addHack(new HackExample());
+		addHack(new XantrixModule());
 		addCommand(new CommandExample());
+		
 	}
 }
